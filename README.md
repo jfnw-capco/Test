@@ -7,21 +7,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/capcodigital/oss-template">
+  <a href="https://github.com/capcodigital/Test">
     <img src="https://raw.githubusercontent.com/capcodigital/.github/master/images/capco.jpeg" alt="Logo" height="160px">
   </a>
   <h3 align="center">[PROJECT_TITLE]</h3>
   <p align="center">
     [PROJECT_DESCRIPTION]
     <br />
-    <a href="https://github.com/capcodigital/oss-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/capcodigital/Test"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/capcodigital/oss-template">View Demo</a>
+    <a href="https://github.com/capcodigital/Test">View Demo</a>
     ·
-    <a href="https://github.com/capcodigital/oss-template/issues">Report Bug</a>
+    <a href="https://github.com/capcodigital/Test/issues">Report Bug</a>
     ·
-    <a href="https://github.com/capcodigital/oss-template/issues">Request Feature</a>
+    <a href="https://github.com/capcodigital/Test/issues">Request Feature</a>
   </p>
 </p>
 
@@ -99,7 +99,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/capcodigital/oss-template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/capcodigital/Test/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -124,14 +124,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 * [DocToc](https://github.com/thlorenz/doctoc)
 
-[contributors-shield]: https://img.shields.io/github/contributors/capcodigital/oss-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/capcodigital/oss-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/capcodigital/oss-template.svg?style=for-the-badge
-[forks-url]: https://github.com/capcodigital/oss-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/capcodigital/oss-template.svg?style=for-the-badge
-[stars-url]: https://github.com/capcodigital/oss-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/capcodigital/oss-template.svg?style=for-the-badge
-[issues-url]: https://github.com/capcodigital/oss-template/issues
-[license-shield]: https://img.shields.io/github/license/capcodigital/oss-template.svg?style=for-the-badge
-[license-url]: https://github.com/capcodigital/oss-template/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/capcodigital/Test.svg?style=for-the-badge
+[contributors-url]: https://github.com/capcodigital/Test/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/capcodigital/Test.svg?style=for-the-badge
+[forks-url]: https://github.com/capcodigital/Test/network/members
+[stars-shield]: https://img.shields.io/github/stars/capcodigital/Test.svg?style=for-the-badge
+[stars-url]: https://github.com/capcodigital/Test/stargazers
+[issues-shield]: https://img.shields.io/github/issues/capcodigital/Test.svg?style=for-the-badge
+[issues-url]: https://github.com/capcodigital/Test/issues
+[license-shield]: https://img.shields.io/github/license/capcodigital/Test.svg?style=for-the-badge
+[license-url]: https://github.com/capcodigital/Test/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
